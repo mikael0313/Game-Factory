@@ -1,0 +1,3 @@
+/workspaces/SnakeGame/build/CMakeFiles/GameFactory.dir
+/workspaces/SnakeGame/build/CMakeFiles/edit_cache.dir
+/workspaces/SnakeGame/build/CMakeFiles/rebuild_cache.dir
